@@ -12,7 +12,7 @@ test.each([
   ['Egorov-', 'Логин не может заканчиваться цифрами, символами подчёркивания или тире'],
   ['Egorov_', 'Логин не может заканчиваться цифрами, символами подчёркивания или тире'],
 ])(
-  'return healht status',
+  'Chek valid name',
   (name, expected) => {
     const check = new Validator();
     expect(check.validateUsername(name)).toBe(expected);
