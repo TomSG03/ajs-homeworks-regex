@@ -1,9 +1,5 @@
 import Validator from '../Validator';
 
-test('Test valid nikName', () => {
-
-});
-
 test.each([
   ['Egorov-007s', true],
   ['Egorov_007s', true],
