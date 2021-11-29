@@ -3,6 +3,5 @@
 - [x] Никнеймы
 - [x] [Телефоны (задача со звёздочкой)](https://github.com/TomSG03/ajs-homeworks-regex-phone)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/qsi16lvtle2db6lb?svg=true)](https://ci.appveyor.com/project/TomSG03/ajs-homeworks-regex)
 ---
 [Спискок задач](https://github.com/TomSG03/ajs-homeworks-list)
